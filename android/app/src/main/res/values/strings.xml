@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Izary Store</string>
+    <string name="title_activity_main">Izary Store</string>
+    <string name="package_name">com.izarystore.app</string>
+    <string name="custom_url_scheme">com.izarystore.app</string>
+</resources>
